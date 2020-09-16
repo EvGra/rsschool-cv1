@@ -1,1 +1,1 @@
-﻿https://evgra.github.io/rsschool-cv/cv
+﻿https://EvGra.github.io/rsschool-cv/cv
